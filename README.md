@@ -1,2 +1,4 @@
 # ZeR99999
-By yourself
+Learn Python by yourself
+
+name=王泽瑞
